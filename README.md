@@ -1,7 +1,7 @@
 # dpSubsetSelection
 
 ## Introduction
-dpSubsetSelection is the software to implement the algorithm in the paper "Selecting Optimal Subset to Release Under Differentially Private M-Estimators from Hybrid Datasets". Please contact <mengw1@stanford.edu> for bugs. 
+dpSubsetSelection is the software to implement the algorithm in the paper "Selecting Optimal Subset to Release Under Differentially Private M-Estimators from Hybrid Datasets". Please contact Meng Wang by email <mengw1@stanford.edu> for bugs. 
 
 ## Setup
 ### Dependencies 
