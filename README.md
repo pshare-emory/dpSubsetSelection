@@ -5,7 +5,7 @@ dpSubsetSelection is the software to implement the algorithm in the paper "Selec
 
 ## Setup
 ### Dependencies 
-* [R](https://www.r-project.org/) (version >= 3.3.0)
+* [R](https://www.r-project.org/) (version >= 3.3.0) and R packages "dummies"and "MASS"
 
 
 ### Installation (Mac OS X/Linux)
