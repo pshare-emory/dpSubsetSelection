@@ -42,9 +42,7 @@ dpSubsetSelection is the software to implement the algorithm in the paper "Selec
   --kBy The segment of numbers of public data points to release.
   
 # Example
-  ./dpSubsetSelection.sh --prefixPrvData=./raw_data/raw_private_dataset.csv --prefixPubData=./raw_data/raw_public_dataset.csv  
-  --numIndStart=2 --numIndEnd=3 --catIndStart=1 --catIndEnd=1 --eps=0.5 --kStart=10 --kEnd=1000 --kBy=100
-
+  ./dpSubsetSelection.sh --prefixPrvData=./raw_data/raw_private_dataset.csv --prefixPubData=./raw_data/raw_public_dataset.csv --numIndStart=2 --numIndEnd=3 --catIndStart=1 --catIndEnd=1 --eps=0.5 --kStart=10 --kEnd=1000 --kBy=100
 # Output
  The outputs are (1) the selected optimal public subset under DP, (2) the estimated parameters in the logistic regression from the selected subset, (3) results of prediction errors and their trend plot. 
 
