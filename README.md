@@ -46,7 +46,7 @@ dpSubsetSelection is the software to implement the algorithm in the paper "Selec
   --numIndStart=2 --numIndEnd=3 --catIndStart=1 --catIndEnd=1 --eps=0.5 --kStart=10 --kEnd=1000 --kBy=100
 
 # Output
- The outputs are (1) the selected optimal public subset under DP, (2) the estimated parameters in the logistic regression from the selected subset, (3) prediction errors results and their trend plot. 
+ The outputs are (1) the selected optimal public subset under DP, (2) the estimated parameters in the logistic regression from the selected subset, (3) results of prediction errors and their trend plot. 
 
 ## License
 This project is licensed under the GNU General Public License v3.0 (see the [LICENSE](https://github.com/mwgrassgreen/dpSubsetSelection/blob/master/LICENSE) file for details).    
